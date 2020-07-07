@@ -1,11 +1,9 @@
-package com.somple.ex03.connector.http;
+package org.apache.catalina.connector.http;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.EOFException;
 import org.apache.catalina.util.StringManager;
-
-import com.simple.ex02.Constants;
 
 /**
  * Extends InputStream to be more efficient reading lines during HTTP

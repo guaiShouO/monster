@@ -1,4 +1,4 @@
-package ex04.pyrmont.core;
+package com.simple.ex04.connector.http;
 
 import java.beans.PropertyChangeListener;
 import java.net.URL;
